@@ -2,7 +2,7 @@ from langchain.document_loaders import DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema import Document
 
-DATA_PATH = 'data/extracteddata'
+DATA_PATH = 'data/test'
 
 def load_documents():
     

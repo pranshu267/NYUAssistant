@@ -12,9 +12,9 @@ def main():
 def generate_data_store():
     documents = load_documents()
     chunks = split_text(documents)
-    save_to_chroma(chunks)
+    save_to_faiss(chunks)
 
-def save_to_chroma(chunks: list[Document]):
+def save_to_faiss(chunks: list[Document]):
 
     vectordb = FAISS.from_documents(chunks, EMBEDDINGS)
     vectordb.save_local(FAISS_PATH)

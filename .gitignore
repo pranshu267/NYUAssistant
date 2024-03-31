@@ -1,6 +1,5 @@
 data/
-/source/style.css
-/source/app.py
+faiss_index/
 /source/.env
 __pycache__/
 .venv/
