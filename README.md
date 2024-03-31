@@ -1,2 +1,4 @@
 # NYUAssistant
-To DO : Add frontend and make RAG servable using streamlit
+To DO : 
+Add screen-shots of final app. 
+Use better color scheme for frontend
