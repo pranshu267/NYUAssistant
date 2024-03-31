@@ -1,0 +1,9 @@
+data/
+/source/style.css
+/source/app.py
+/source/.env
+__pycache__/
+.venv/
+.vscode/
+.DS_Store
+NYU_logo.png
