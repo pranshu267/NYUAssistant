@@ -26,4 +26,4 @@ When tested the RAG generates factualy accurate responses to the questions asked
 
 ![Response 1.](assets/Figure1.png)
 ![Response 2.](assets/Figure2.png)
-1[Response 3.](assets/Figure3.png)
+![Response 3.](assets/Figure3.png)
